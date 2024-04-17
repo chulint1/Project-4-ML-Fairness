@@ -4,10 +4,10 @@
 
 Term: Spring 2024
 
-+ Team #
++ Team #11
 + Projec title: Lorem ipsum dolor sit amet
 + Team members
-	+ team member 1
+	+ team member 1 Chulin Tang
 	+ team member 2
 	+ team member 3
 	+ team member 4
